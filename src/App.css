@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #e6f7ff;
+  margin: 0;
+  padding: 0;
+}
+
+.card h3 {
+  color: #1e90ff;
+  font-weight: bold;
+}
+
+.card p {
+  color: #555;
+  margin: 5px 0;
+}
